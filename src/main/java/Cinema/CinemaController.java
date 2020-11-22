@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 @RestController
 public class CinemaController {
+	// for commit test
 	
 	@CrossOrigin(origins = "*")
 	@RequestMapping("/")
